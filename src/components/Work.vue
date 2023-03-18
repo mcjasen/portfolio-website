@@ -11,14 +11,14 @@
             </WorkItem>
             <WorkItem 
                 date="October 2020 until February 2023" 
-                title="Master of Science - Informatik"
+                title="Master of Science - Computer Science"
                 company="University of Applied Sciences, Trier"
                 link="https://www.hochschule-trier.de/en/computer-science/studies/ima"
                 :activities="[]">
             </WorkItem>
             <WorkItem 
                 date="October 2017 until September 2020" 
-                title="Dual study - Bachelor of Science - Wirtschaftsinformatik"
+                title="Dual study - Bachelor of Science - Business Information Systems"
                 company="Technische Werke Ludwigshafen (municipal utility)"
                 link="https://www.twl.de/das-ist-twl/ueber-uns"
                 :activities="['Developed a SAP-App to improve the procurment process', 'Developed a digital phone book  as a web-app']">
