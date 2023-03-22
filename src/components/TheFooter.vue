@@ -4,7 +4,7 @@
             Designed by André Froning
         </a>
         <div> 
-            Built by <a href="https://github.com/markuskooche/PortfolioWebpageV1" target="_blank"> Markus Koch </a> & <a href="https://www.github.com/bchiang7/v4" target="_blank"> Brittany Chiang</a>
+            Built by <a href="https://www.github.com/bchiang7/v4" target="_blank"> Brittany Chiang</a> & <a href="https://github.com/markuskooche/PortfolioWebpageV1" target="_blank"> Markus Koch </a>
         </div>
     </footer>
 </template>
