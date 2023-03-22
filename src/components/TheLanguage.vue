@@ -6,6 +6,8 @@
                 :alt="alt"
                 @mouseover="setFocus()" 
                 @mouseleave="unsetFocus()"
+                @touchstart="setFocus()"
+                @touchend="unsetFocus()"
             >
             <div class="name" ref="name" :class="{visible: show}">{{ name }}</div>
         </div>
@@ -84,6 +86,7 @@ export default {
         font-family: var(--font-mark);
         transition: opacity 0.35s ease-in-out;
         opacity: 0;
+        margin-bottom: 10px;
     }
 
     .visible{
