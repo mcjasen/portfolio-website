@@ -32,7 +32,7 @@
             <Project
                 title="Digital Shopping List" 
                 :description="{
-                    'title': 'Digital Shopping List as a web-app:',
+                    'title': 'Digital Shopping List as a web app:',
                     'items': [
                         'managing different lists with different items',
                         'automatically display photos matching a list or an article'
